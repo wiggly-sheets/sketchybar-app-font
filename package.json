@@ -34,5 +34,10 @@
       "preserveAspectRatio": true,
       "fixedWidth": true
     }
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "ttf2woff2"
+    ]
   }
 }
